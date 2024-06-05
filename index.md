@@ -7,7 +7,7 @@ title: "MindGraph: fra data til indsigt"
 
 👋 **Hej, jeg hedder Kiril, og velkommen til MindGraph**: mit eget konsulentsfirma, specialiseret i at hjælpe dig med at omdanne dine data til  indsigter, som du kan handle på. Jeg brænder for at finde sammenhænge i data samt bistå beslutningstagere med praktiske, databaserede anbefalinger.
 
-[Tryk her](/en/) for at skifte til hjemmesidens engelske udgave 😊
+[Tryk her](index_en.md) for at skifte til hjemmesidens engelske udgave 😊
 
 ## Få hjælp med dit projekt
 
