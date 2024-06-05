@@ -1,3 +1,8 @@
+---
+# layout: default
+title: "MindGraph: from data to insight"
+---
+
 <img src="img/logo.svg" alt="MindGraph logo" width="250"/>
 <br>
 <br>
