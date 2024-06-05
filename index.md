@@ -1,5 +1,5 @@
 ---
-# layout: default
+layout: default_en
 title: "MindGraph: from data to insight"
 ---
 
