@@ -1,11 +1,11 @@
 ---
-# layout: default
+# layout: default_en
 title: "MindGraph: fra data til indsigt"
 ---
 
 # Velkommen til MindGraph
 
-👋 **Hej, jeg hedder Kiril, og velkommen til MindGraph**: mit eget konsulentsfirma, specialiseret i at hjælpe dig med at omdanne dine data til  indsigter, som du kan handle på. Jeg brænder for at finde sammenhænge i data samt bistå beslutningstagere med praktiske, databaserede anbefalinger.
+👋 **Hej, jeg hedder Kiril, og velkommen til MindGraph**: mit eget konsulentsfirma, specialiseret i at hjælpe dig med at omdanne dine data til indsigter, som du kan handle på. Jeg brænder for at finde sammenhænge i data samt bistå beslutningstagere med praktiske, databaserede anbefalinger.
 
 [Tryk her](index_en.md) for at skifte til hjemmesidens engelske udgave 😊
 
