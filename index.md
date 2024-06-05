@@ -1,5 +1,5 @@
 ---
-layout: default_en
+# layout: default_en # DOES NOT WORK AS EXPECTED!! THEME GETS RUINED...
 title: "MindGraph: fra data til indsigt"
 ---
 
