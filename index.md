@@ -1,53 +1,48 @@
 ---
-layout: default_en
-title: "MindGraph: from data to insight"
+# layout: default
+title: "MindGraph: fra data til indsigt"
 ---
 
-<img src="img/logo.svg" alt="MindGraph logo" width="250"/>
-<br>
-<br>
+# Velkommen til MindGraph
 
-# Welcome to MindGraph
+👋 **Hej, jeg hedder Kiril, og velkommen til MindGraph**: mit eget konsulentsfirma, specialiseret i at hjælpe dig med at omdanne dine data til  indsigter, som du kan handle på. Jeg brænder for at finde sammenhænge i data samt bistå beslutningstagere med praktiske, databaserede anbefalinger.
 
-👋 **Hello, my name's Kiril and welcome to MindGraph**: my private consultancy specialised in helping you leverage your data by transforming it into actionable insights. I am passionate about finding patterns in the data and providing decision-makers with practical, data-driven recommendations.
+[Tryk her](/en/) for at skifte til hjemmesidens engelske udgave 😊
 
-[Click here](index_dk.md) to read my website in Danish 😊
+## Få hjælp med dit projekt
 
-## Get help with your project
+Uanset om det drejer sig om at definere og afgrænse projekter, skabe ETL pipelines og BI rapporter eller udvikle prædiktive modeller, mit kendskab spreder sig over **en bred vifte** af datarelaterede opgaver.
 
-Whether it's scoping projects, creating data ETL pipelines and BI reports, or developing predictive models, my expertise spans a **broad spectrum** of data-related services.
+Her er nogle af de områder, hvorpå jeg kan bidrage:
 
-Here are some of the areas I cover:
+- Scoping af data projekter
+- Dataindsamling
+- Spørgeskemadesign
+- Datarensning (ETL)
+- Statistisk dataanalyse
+- Data visualisering
+- BI rapportering
+- ML modellering
+- Udforsk dine datas potentiale
 
-- Project scoping
-- Data collection
-- Survey design
-- Data cleaning (ETL)
-- Data analysis
-- Data visualisation
-- BI reporting
-- ML modelling
+Data er næsten aldrig perfekt, men det skal ikke forhindre os i at finde værdifulde indsigter i dem. Ved at kombinere **din domæneviden** og **min dataekspertise** kan vi teste dine hypoteser i praksis, fremhæve vigtige konklusioner og lave konkrete anbefalinger, som du kan handle på.
 
-## Unlock the potential of your data
+Kontakt mig venligst på [info@mindgraph.dk](mailto:info@mindgraph.dk) for et gratis uforpligtende møde på 30 minutter, hvor vi kan diskutere dine behov og vores mulige samarbejde i forbindelse med dit projekt.
 
-Data is almost never perfect, but that doesn't deter me from using it to extract valuable insights. By combining your **domain knowledge** and my **data expertise**, we can test your hypotheses in practice, highlight important conclusions and recommend actions to address pressing challenges.
+## Tag et kig på hvad MindGraph kan gøre for dig
 
-Please reach out to me at [info@mindgraph.dk](mailto:info@mindgraph.dk) for a free, no-strings-attached 30 minutes meeting where we can discuss your needs and do some initial project scoping.
+For at se hvordan jeg har brugt mine evner **i praksis**, tag gerne et kig på nogle af de projekter, jeg har arbejdet på indtil videre:
 
-## Take a peek at what MindGraph could do for you
+### Studie af nationalglæde verden rundt (2024)
 
-To see how I've applied my skills in **real-life situations**, feel free to explore some of the projects I've worked on in the past:
-
-### Global happiness insights (2024)
-
-A study of the rentals market in Greater Copenhagen, with a focus on what's available, how much it costs and why as well as a predictive model for monthly rent size
+En undersøgelse af, hvordan global lykke har udviklet sig gennem tiden, hvilke faktorer bestemmer lykkeniveauer og forudsigelser, for hvilke de lykkeligste lande vil være i 2023 og 2024:
 
 ![Global happiness study](img/world_happiness_cover.svg "Global happiness study")
 
-### Rentals in Greater Copenhagen (2023)
+### Studie af lejeboliger i Storkøbenhavn (2023)
 
-A study of how global happiness has evolved throughout time, what factors determine happiness levels and predictions for which the happiest countries will be in 2023 and 2024:
+En undersøgelse af lejemarkedet i Storkøbenhavn med fokus på, hvad der er tilgængeligt, hvor meget det koster og hvorfor samt en forudsigelsesmodel for månedlig lejestørrelse:
 
 ![CPH rentals study](img/cph_rentals_cover.svg "CPH rentals study")
 
-In these projects, I've taken care of the whole process from sourcing and cleaning the data to analysing it and communicating the insights in layman terms. I constantly work on new projects, so feel free to check back the full list later for some more awesome stuff!
+I disse projekter har jeg nemlig været med til alt fra start til slut, dvs. at jeg både har indsalmet, renset og analyseret på dataene samt formidlet de endelige indisgter i menneskesprog. Jeg arbejder hele tiden på nye projekter, og du er altid velkommen til at tjekke den fulde liste for at finde flere spændende ting!
