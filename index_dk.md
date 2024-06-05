@@ -1,3 +1,7 @@
+<img src="img/logo.svg" alt="MindGraph logo" width="250"/>
+<br>
+<br>
+
 # Velkommen til MindGraph
 
 👋 **Hej, jeg hedder Kiril, og velkommen til MindGraph**: mit eget konsulentsfirma, specialiseret i at hjælpe dig med at omdanne dine data til  indsigter, som du kan handle på. Jeg brænder for at finde sammenhænge i data samt bistå beslutningstagere med praktiske, databaserede anbefalinger.

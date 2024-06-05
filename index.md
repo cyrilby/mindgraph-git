@@ -1,3 +1,7 @@
+<img src="img/logo.svg" alt="MindGraph logo" width="250"/>
+<br>
+<br>
+
 # Welcome to MindGraph
 
 👋 **Hello, my name's Kiril and welcome to MindGraph**: my private consultancy specialised in helping you leverage your data by transforming it into actionable insights. I am passionate about finding patterns in the data and providing decision-makers with practical, data-driven recommendations.
