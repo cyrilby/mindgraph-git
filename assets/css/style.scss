@@ -3,6 +3,25 @@
 
 @import "{{ site.theme }}";
 
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+
+/* Set font for headlines (h1, h2, h3, etc.) */
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+    font-family: "Oswald", sans-serif;
     color: #1ea2b5ff;
+}
+
+/* Set font for the rest of the text */
+.main-content {
+    font-family: "Roboto Slab", serif;
+}
+
+/* Center the content horizontally */
+.main-content {
+    max-width: 75%;
+    margin: 0 auto;
 }
